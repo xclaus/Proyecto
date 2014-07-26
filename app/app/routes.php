@@ -20,7 +20,7 @@
  */
 Route::get('/', function()
 {
-	return View::make('index');
+	return View::make('inde');
 });
 
 Route::get('main', function()
